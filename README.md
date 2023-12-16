@@ -16,9 +16,9 @@ This project was made as a school project in [kood/Jõhvi](https://kood.tech/) (
 
 The project required me to create a microservice architecture which included a gateway, a message queue system RabbitMQ & 2 other services with their own PostgreSQL instances. The infrastructure had to be provisioned by Vagrant. The gateway and microservices were all written using Node.js .
 
-  **NB! Different source control platform was used hence no commit history.**
-
 ![image](./assets/images/crud-master-diagram.png)
+
+  **NB! Different source control platform was used hence no commit history.**
 
 ## Features
 - Microservice architecture
